@@ -44,7 +44,7 @@
     </dependency>
     <dependency>
         <groupId>org.apache.jena</groupId>
-        <artifactId>jena-fuseki1</artifactId>
+        <artifactId>jena-fuseki</artifactId>
     </dependency>
 
   </dependencies>
